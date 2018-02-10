@@ -2,7 +2,7 @@
   <footer>
     <div class="constrict">
       <div class="col">
-        <span><a target="_blank" href="https://github.com/bswank/liable">Code on GitHub</a></span>
+        <span><a target="_blank" href="https://github.com/bswank">Code on GitHub</a></span>
         <span><router-link tag="a" to="/privacy">Privacy Policy</router-link></span>
       </div>
       <div class="closing">
