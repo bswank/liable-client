@@ -1,6 +1,6 @@
 <template>
   <div style="text-align: center;">
-    <div class="notice"><span>This project is in the beta testing phase. Report issues on <a target="_blank" href="https://github.com/bswank/liable/issues">GitHub</a>.</span></div>
+    <div class="notice"><span>This project is in the beta testing phase. Report issues on <a target="_blank" href="https://twitter.com/briansw/">Twitter</a>.</span></div>
     <header style="text-align: left;">
       <div>
         <router-link v-if="!$store.state.isUserLoggedIn" tag="span" to="/">liable</router-link>
